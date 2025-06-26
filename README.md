@@ -16,7 +16,7 @@ The full paper is available on arXiv: [arXiv:YYYY.NNNNN](https://arxiv.org/abs/Y
 
 🔹 **MSMGenderBias.csv**
 
-- A set of manually annotated passages from the MS MARCO Passage Ranking collection with gender bias labels.
+- A set of manually annotated passages from the **MS MARCO Passage Ranking collection** with gender bias labels.
 - Fields:
   - doc_id: MS MARCO passage identifier
   - gender_bias: Gender bias labels
@@ -24,14 +24,14 @@ The full paper is available on arXiv: [arXiv:YYYY.NNNNN](https://arxiv.org/abs/Y
     - **M** — Male-biased
     - **F** — Female-biased
 
-**⚠️ Note:** The original MS MARCO dataset is not redistributed here. These files contain only IDs and annotations. You must request access to MS MARCO separately from https://microsoft.github.io/msmarco/.
+**⚠️ Note:** The original MS MARCO dataset is not redistributed here. This file contains only IDs and annotations. You must request access to MS MARCO separately from https://microsoft.github.io/msmarco/.
 
 ---
 
 ## 📬 Contact
 
 For questions or collaborations, please contact:  
-✉️ maryamalsadat.mousavian@usi.ch  
+✉️ maryamalsadat.mousavian@usi.ch or maryam.mousavian@uva.nl
 Or open an issue in this repository.
 
 ---
