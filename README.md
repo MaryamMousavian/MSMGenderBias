@@ -30,8 +30,8 @@ The full paper is available on arXiv: [arXiv:YYYY.NNNNN](https://arxiv.org/abs/Y
 
 ## 📬 Contact
 
-For questions or collaborations, please contact:  
-✉️ maryamalsadat.mousavian@usi.ch or maryam.mousavian@uva.nl
+For questions, feedbacks, and collaborations, please contact:  
+✉️ maryamalsadat.mousavian@usi.ch    
 Or open an issue in this repository.
 
 ---
