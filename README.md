@@ -19,7 +19,10 @@ The full paper is available on arXiv: [arXiv:YYYY.NNNNN](https://arxiv.org/abs/Y
 - A set of manually annotated passages from the MS MARCO Passage Ranking collection with gender bias labels.
 - Fields:
   - doc_id: MS MARCO passage identifier
-  - gender_bias: Gender bias label (**N** (Neutral (no bias)), **M** (Male (biased towards male)), **F** (Female (biased towards female)))
+  - gender_bias: Gender bias labels
+    - **N** — Neutral (no bias)
+    - **M** — Male-biased
+    - **F** — Female-biased
 
 **⚠️ Note:** The original MS MARCO dataset is not redistributed here. These files contain only IDs and annotations. You must request access to MS MARCO separately from https://microsoft.github.io/msmarco/.
 
