@@ -14,20 +14,6 @@ The full paper is available on arXiv: [arXiv:YYYY.NNNNN](https://arxiv.org/abs/Y
 
 ## 📦 Dataset Overview
 
-This repository contains three main files:
-
-🔹 **QS1_Subset.csv**
-
-- A subset of **non-gendered** queries from the MS MARCO Passage Ranking collection, used for retrieving documents.
-- Fields:
-  - query_id: query identifier
-
-🔹 **QS2_Subset.csv**
-  
-- A subset of **bias-sensitive** queries from the MS MARCO Passage Ranking collection, used for retrieving documents.
-- Fields:
-  - query_id: Query identifier
-
 🔹 **MSMGenderBias.csv**
 
 - A set of manually annotated passages from the MS MARCO Passage Ranking collection with gender bias labels.
