@@ -15,7 +15,7 @@ The full paper is available on arXiv: [arXiv:YYYY.NNNNN](https://arxiv.org/abs/Y
 
 ## 📦 Dataset Overview
 
-This repository contains three main files, each serving a specific purpose in the study of gender bias in information retrieval systems:
+This repository contains three main files:
 
 🔹 **QS1_Subset.csv**
 
@@ -38,15 +38,15 @@ This repository contains three main files, each serving a specific purpose in th
 
 **⚠️ Note:** The original MS MARCO dataset is not redistributed here. These files contain only IDs and annotations. You must request access to MS MARCO separately from https://microsoft.github.io/msmarco/.
 
+---
+
 ## 📬 Contact
 
 For questions or collaborations, please contact:  
 ✉️ maryamalsadat.mousavian@usi.ch  
 Or open an issue in this repository.
 
-## 🙏 Acknowledgments
-
-We thank the MS MARCO team at Microsoft for making their dataset available to the research community.
+---
 
 ## 📚 Citation
 
@@ -58,3 +58,9 @@ If you use this dataset, please cite our paper:
   booktitle={ICTIR},  
   year={2025}  
 }
+
+---
+
+## 🙏 Acknowledgments
+
+We thank the MS MARCO team at Microsoft for making their dataset available to the research community.
