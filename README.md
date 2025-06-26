@@ -18,13 +18,13 @@ This repository contains three main files:
 
 🔹 **QS1_Subset.csv**
 
-- A subset of non-gendered queries from the MS MARCO Passage Ranking collection, used for retrieving documents.
+- A subset of **non-gendered** queries from the MS MARCO Passage Ranking collection, used for retrieving documents.
 - Fields:
   - query_id: query identifier
 
 🔹 **QS2_Subset.csv**
   
-- A subset of bias-sensitive queries from the MS MARCO Passage Ranking collection, used for retrieving documents.
+- A subset of **bias-sensitive** queries from the MS MARCO Passage Ranking collection, used for retrieving documents.
 - Fields:
   - query_id: Query identifier
 
@@ -33,7 +33,7 @@ This repository contains three main files:
 - A set of manually annotated passages from the MS MARCO Passage Ranking collection with gender bias labels.
 - Fields:
   - doc_id: MS MARCO passage identifier
-  - gender_bias: Gender bias label (N (Neutral (no bias)), M (Male (biased towards male)), F (Female (biased towards female)))
+  - gender_bias: Gender bias label (**N** (Neutral (no bias)), **M** (Male (biased towards male)), **F** (Female (biased towards female)))
 
 **⚠️ Note:** The original MS MARCO dataset is not redistributed here. These files contain only IDs and annotations. You must request access to MS MARCO separately from https://microsoft.github.io/msmarco/.
 
