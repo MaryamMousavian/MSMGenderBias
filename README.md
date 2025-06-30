@@ -8,7 +8,7 @@ This repository accompanies the paper **"Towards Fair Rankings: Leveraging LLMs 
 
 ## 🔗 Paper
 
-The full paper is available on arXiv: [arXiv:YYYY.NNNNN](https://arxiv.org/abs/YYYY.NNNNN)
+The full paper is available on arXiv: [arXiv:2506.22372](http://arxiv.org/abs/2506.22372)
 
 ---
 
